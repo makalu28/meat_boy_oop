@@ -26,4 +26,4 @@ The application leverages structural object-oriented mechanics to safely isolate
 ---
 
 ## 👩‍💻 Author
-- **Katarina Pilić** - *B.Sc. in Computer Science and Technology*
+- **Katarina Pilić** - *univ. bacc. inf. et techn. Katarina Pilić*
